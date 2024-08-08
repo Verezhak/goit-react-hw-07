@@ -1,5 +1,5 @@
 
-import { useDispatch, useSelector } from 'react-redux';
+import { useSelector } from 'react-redux';
 import { ThreeCircles } from 'react-loader-spinner';
 import Contact from '../Contact/Contact';
 import s from './ContactList.module.css'
